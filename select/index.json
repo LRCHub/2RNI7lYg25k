@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "カレンダー",
+  "base_artist": "川崎鷹也",
+  "createdAt": "2025-12-17T09:47:58.507475Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カレンダー - Calendar",
+      "artist": "Takaya Kawasaki",
+      "has_synced": true,
+      "path": "select/01_カレンダー_-_Calendar_Takaya_Kawasaki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カレンダー",
+      "artist": "川崎鷹也",
+      "has_synced": true,
+      "path": "select/02_カレンダー_川崎鷹也.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カレンダー",
+      "artist": "川崎 鷹也",
+      "has_synced": false,
+      "path": "select/pl_01_カレンダー_川崎_鷹也.txt"
+    }
+  ]
+}
